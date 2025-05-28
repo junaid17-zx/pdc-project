@@ -37,7 +37,7 @@ This is a Python-based two-player Tic Tac Toe game implemented using a client-se
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/distributed-tic-tac-toe.git
+git clone https://github.com/junaid17-zx/distributed-tic-tac-toe.git
 cd distributed-tic-tac-toe
 ```
 
